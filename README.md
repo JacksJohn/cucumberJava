@@ -20,3 +20,5 @@ the test can be run as follows
   *Option-B*: via the Test Runner
           i. Navigate to src/test/java -> runner Package
           ii. Right Cick and Run "TestRunner.java" as junit test
+          
+  Note: HTML/Junit reports are generated from the test run (can be viewed under folder 'target')
