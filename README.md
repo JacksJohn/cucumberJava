@@ -8,8 +8,10 @@ Test Project to query books on trademe sandbox site and to validate listing numb
 
 **Running Tests**
 After Importing the project to Eclipse, the test can be run as follows
+  
+  
   Option-A: via the Feature File
-          i. Navigate to src/test/resources -> Features folder Open .
+          i. Navigate to src/test/resources -> Features folder Open
           ii.Right click "Search.feature" run as Cucumber Feature
           
   
