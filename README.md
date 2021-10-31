@@ -21,4 +21,6 @@ the test can be run as follows
           i. Navigate to src/test/java -> runner Package
           ii. Right Cick and Run "TestRunner.java" as junit test
           
-  Note: HTML/Junit reports are generated from the test run (can be viewed under folder 'target')
+  Note: 
+  1. Edgedriver has been used for this test.
+  2. HTML/Junit reports are generated from the test run (can be viewed under folder 'target')
