@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="47.6">
+    <testcase classname="Querying Used Books" name="Search Used books and Validate data displayed" time="47.165">
+        <system-out><![CDATA[Given The Trademe Sandbox Page is open......................................passed
+When the user clicks on Market Place........................................passed
+And clicks on the Books.....................................................passed
+And filters with condition as Used..........................................passed
+And clicks the book of choice...............................................passed
+Then the books details are displayed........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
