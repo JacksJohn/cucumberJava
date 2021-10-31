@@ -7,7 +7,10 @@ Test Project to query books on trademe sandbox site and to validate listing numb
 3. Cucumber Eclipse Plugin from Market place
 
 **Running Tests**
-After Importing the project to Eclipse, the test can be run as follows
+
+After Importing the project to Eclipse, 
+
+the test can be run as follows
   
   
   Option-A: via the Feature File
